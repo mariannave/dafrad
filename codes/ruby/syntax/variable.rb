@@ -52,11 +52,14 @@ a = 1, 2, 3
 puts a.inspect
 # Multiple Assignment
 a, b = 1, 2
+puts a.inspect, b.inspect
 
 # Array Decomposition
 (a, b) = [1, 2]
 a, (b, c) = 1, [2, 3]
 a, (*c), *d = 1, [2, 3, 4], 5, 6
+a, c, *d = 1, [2, 3, 4], 5, 6
+a, *c, *d = 1, [2, 3, 4], 5, 6 #=> SyntaxError
 puts a
 puts c.inspect
 puts d.inspect

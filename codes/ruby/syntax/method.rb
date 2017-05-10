@@ -6,7 +6,8 @@ def soma(a, b)
 end
 puts soma(1, 2)
 puts soma 1, 2
-puts soma 1, soma(1, 1) # SyntaxError
+# puts soma 1, soma 1, 1 # SyntaxError
+puts soma 1, soma(1, 1)
 
 # case sensitive
 def SOMA(a, b)
@@ -18,6 +19,8 @@ puts SOMA(1, 2)
 def soma(a)
   a
 end
+puts soma(1)
+puts soma(1, 2) # ArgumentError
 
 begin
   puts soma(1, 2)

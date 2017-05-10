@@ -27,6 +27,7 @@ dolor'
 
   # Percent String
   # http://ruby-doc.org/core-2.3.1/doc/syntax/literals_rdoc.html#label-Percent+Strings
+  puts %(lorem ipsum dolor).class
   puts %(lorem ipsum dolor)
   puts %q(1 + 1 is 2)
   puts %q[1 + 1 is 2]
@@ -39,10 +40,12 @@ dolor'
   puts %Q(1 + 1 is 2)
   puts %Q(1 + 1 is #{1 + 1})
   puts %Q(1 + 1 is\n#{1 + 1})
+  puts %Q(1 + 1 is\n#{1 + 1}).inspect
   puts %i(lorem ispum dolor).inspect
   puts %s(lorem ispum dolor).inspect
   puts %r(lorem ispum dolor).inspect
   puts %w(lorem ispum dolor).inspect
+  puts %w(lorem\ ispum dolor).inspect
   puts %x(ls) # `ls`
 
   # heredoc
@@ -130,6 +133,10 @@ puts :"lorem ipsum dolor"
 puts :lorem
 puts :"lorem ipsum dolor".object_id.to_s(32)
 puts :"lorem ipsum dolor".object_id.to_s(32)
+
+pust :1 #=> SyntaxError
+pust :"1"
+pust :"lorem ipsum"
 
 puts :"lorem ipsum\ndolor"
 puts :"1 + 1 = #{1+1}"

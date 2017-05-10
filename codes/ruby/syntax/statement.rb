@@ -40,9 +40,9 @@ puts result
 end
 
 # unless Expression
-number = 10
-unless number.odd? then # if not
-  puts "number is odd."
+number = 11
+unless number.even? then # if not
+  puts "number is not even."
 end
 
 unless number.odd?
@@ -50,7 +50,7 @@ unless number.odd?
 end
 
 # Modifier if and unless
-number = 10;
+number = 10
 kind = :odd if number.odd?
 kind = :even if number.even?
 puts kind

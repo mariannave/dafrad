@@ -5,6 +5,7 @@ puts Integer.ancestors.inspect #=> "[Integer, Numeric, Comparable, Object, Kerne
 
 puts 1234.class #=> Fixnum
 puts 1234
+puts -1234
 puts 1_234
 puts 1,234
 
@@ -12,8 +13,10 @@ puts 1,234
   puts (1).object_id #=> 3
   puts (2).object_id #=> 5
   puts (3).object_id #=> 7
+  puts (2**61).class #=> Integer
   puts (2**61).object_id.to_s(32) #=> 4000000000001
   puts (2**61).object_id.to_s(32) #=> 4000000000001
+  puts (2**62).class #=> Integer
   puts (2**62).object_id.to_s(32)
   puts (2**62).object_id.to_s(32)
 
