@@ -27,6 +27,19 @@
 09 08 07 06 05 04 03 02 01 00
 ```
 
+```
+99 97 95 93 91
+89 87 85 83 81
+79 77 75 73 71
+69 67 65 63 61
+59 57 55 53 51
+49 47 45 43 41
+39 37 35 33 31
+29 27 25 23 21
+19 17 15 13 11
+09 07 05 03 01
+```
+
 ## Calendar
 ```
 puts "Enter start (DOM, SEG, TER, QUA, QUI, SEX, SAB):"
@@ -70,15 +83,16 @@ uri = URI("https:#viacep.com.br/ws/01001000/json/")
 json_str = Net::HTTP.get(uri)
 orgs = JSON.parse(json_str)
 
-cep: 01001-000,
-logradouro: Praça da Sé,
-complemento: lado ímpar,
-bairro: Sé,
-localidade: São Paulo,
-uf: SP,
-unidade: ,
-ibge: 3550308,
-gia: 1004
+# TODO
+# cep: 01001-000,
+# logradouro: Praça da Sé,
+# complemento: lado ímpar,
+# bairro: Sé,
+# localidade: São Paulo,
+# uf: SP,
+# unidade: ,
+# ibge: 3550308,
+# gia: 1004
 ```
 
 ## Count elements
@@ -87,21 +101,21 @@ gia: 1004
 require 'csv'
 @events = CSV.read(filename, { headers: true, col_sep: ";" })
 
-# products.csv
+#products.csv
 # lápis;10
 # caneta;20
 # caderno;7
 
 # TODO
-total() #=> 37
+# total() #=> 37
 ```
 
 ## calc
 ```
 # operator: '+', '-', '*', '/'
-function calc(operand1, operand2, operator){
+def calc(operand1, operand2, operator)
   # TODO
-}
+end
 
 puts calc(1, 1, '+')) #=> 2
 puts calc(1, 1, '*')) #=> 1
@@ -109,9 +123,9 @@ puts calc(1, 1, '*')) #=> 1
 
 ## min
 ```
-function min(array){
+def min(array)
   # TODO
-}
+end
 
 array = [1, 4, 2, 6, 10, 3]
 puts min(array)) #=> 1
@@ -132,10 +146,10 @@ puts max(array)) #=> 10
 range(10)
 #=> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-range(1, 11);
+range(1, 11)
 #=> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-range(0, 30, 5);
+range(0, 30, 5)
 #=> [0, 5, 10, 15, 20, 25]
 ```
 
@@ -152,7 +166,6 @@ zip(['moe', 'larry'], [30, 40])
 ```
 uniq([1, 2, 1, 4, 1, 3])
 #=> [1, 2, 4, 3]
-
 
 uniq([1, 2, 1, 3, 3])
 #=> [1, 2, 3]
@@ -188,5 +201,5 @@ puts order.total() #=> 26
 
 ## Sugestões
 
-* [Exercism](http:#exercism.io/languages/ecmascript/exercises)
-* [Ruby Koan](http:#exercism.io/languages/ruby/exercises)
+* [Exercism](http://exercism.io/languages/ecmascript/exercises)
+* [Ruby Koan](http://exercism.io/languages/ruby/exercises)
