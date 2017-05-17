@@ -7,13 +7,13 @@ class TestEvent < Test::Unit::TestCase
     @event = Event.new("events-wikicfp.csv")
   end
 
-  # def test_list_dealines()
-  #   dates = @event.list_deadlines()
-  #   assert_equal(6, dates.count)
-  #
-  #   expected = ["May 20, 2016", "May 19, 2016", "May 15, 2016", "May 13, 2016", "May 12, 2016", "May 10, 2016"]
-  #   assert_equal(expected, dates)
-  # end
+  def test_list_dealines()
+    dates = @event.list_deadlines()
+    assert_equal(6, dates.count)
+
+    expected = ["May 20, 2016", "May 19, 2016", "May 15, 2016", "May 13, 2016", "May 12, 2016", "May 10, 2016"]
+    assert_equal(expected, dates)
+  end
 
   # def test_list_cities()
   #   cities = @event.list_cities()

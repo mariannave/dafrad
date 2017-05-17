@@ -6,14 +6,11 @@ class Github
     json_str = Net::HTTP.get(uri)
     orgs = JSON.parse(json_str)
 
-    Hash[
-      orgs.map{|org|
-        [
-          org["login"].to_sym,
-          "https://github.com/#{org['login']}"
-        ]
-      }
-    ]
+    result  = {}
+    orgs.each{|value|
+      result[value["login"].to_sym] = "https://github.com/#{value["login"]}"
+    }
+    result
   end
 
   # kind - /:organization|:user/
