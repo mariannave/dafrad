@@ -58,19 +58,19 @@ days = gets.chomp.to_i
 
 ## Hamming
 ```
-def hamming()
+def hamming(dna1, dna2)
   # TODO
 end
 
 dna1 = 'GGACG'
 dna2 = 'GGTCG'
           ˆ
-puts hamming(dna1, dna2)) #=> 1
+puts hamming(dna1, dna2) #=> 1
 
-dna1 = 'GGACGGATTCTG
-dna2 = 'AGGACGGATTCT
+dna1 = 'GGACGGATTCTG'
+dna2 = 'AGGACGGATTCT'
         ˆ ˆˆˆ ˆˆ ˆˆˆ
-puts hamming(dna1, dna2)) #=> 9
+puts hamming(dna1, dna2) #=> 9
 ```
 
 ## CEP
@@ -79,9 +79,9 @@ puts hamming(dna1, dna2)) #=> 9
 require 'json'
 require 'net/http'
 
-uri = URI("https:#viacep.com.br/ws/01001000/json/")
+uri = URI("https://viacep.com.br/ws/01001000/json/")
 json_str = Net::HTTP.get(uri)
-orgs = JSON.parse(json_str)
+cep = JSON.parse(json_str)
 
 # TODO
 # cep: 01001-000,
@@ -201,5 +201,5 @@ puts order.total() #=> 26
 
 ## Sugestões
 
-* [Exercism](http://exercism.io/languages/ecmascript/exercises)
-* [Ruby Koan](http://exercism.io/languages/ruby/exercises)
+* [Exercism](http://exercism.io/languages/ruby/exercises)
+* [Ruby Koan](http://rubykoans.com/)
