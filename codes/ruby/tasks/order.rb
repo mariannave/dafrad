@@ -12,7 +12,7 @@ end
 
 class Item
   attr_reader :product
-  
+
   def initialize product
     @product = product
     @quantity = 1
@@ -63,4 +63,4 @@ order.addProduct(pencil)
 order.addProduct(pen)
 order.addProduct(notebook)
 puts order.total() #=> 26
-puts order.total(:school) #=> 26
+puts order.total(:school) #=> 20
