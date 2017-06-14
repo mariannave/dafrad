@@ -1,4 +1,9 @@
-# Fixnum
+# http://ruby-doc.org/core-2.3.1/Integer.html
+
+# Numeric: Interger (Fixnum & Bignum), Float, Rational, Complex, BigDecimal
+# Ids, Formats, methos
+
+# Interger: Fixnum
 puts Fixnum.superclass
 puts Fixnum.ancestors.inspect
 
@@ -54,7 +59,7 @@ puts 1,234
   puts 35 / 5 #=> 7
   puts 2**5 #=> 32
 
-# Bignum
+# Interger: Bignum
 puts (2**62).class
 puts (2**62).object_id.to_s(32)
 puts (2**62).object_id.to_s(32)
@@ -79,22 +84,4 @@ puts 3.to_c
 
 # BigDecimal (StdLib)
 require 'bigdecimal'
-puts BigDecimal.new("1.4")-BigDecimal.new("1.2")
-
-# Benchmark
-# http://mitrev.net/ruby/2015/08/28/benchmarking-ruby/
-require "benchmark"
-puts Benchmark.measure { BigDecimal("0.3") - 0.2 }
-puts Benchmark.realtime { BigDecimal("0.3") - 0.2 }
-Benchmark.bm do |x|
-  x.report("bigdecimal") { BigDecimal("0.3") - 0.2 }
-  x.report("float") { 0.3 - 0.2 }
-end
-
-require "benchmark/ips"
-Benchmark.ips do |x|
-  x.report("bigdecimal1") { BigDecimal("0.3") - 0.2 }
-  x.report("bigdecimal2") { BigDecimal("0.3") - 0.2 }
-  x.report("float") { 0.3 - 0.2 }
-  x.compare!
-end
+puts BigDecimal.new('1.4')-BigDecimal.new('1.2')

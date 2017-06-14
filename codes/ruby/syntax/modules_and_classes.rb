@@ -1,6 +1,15 @@
 # http://ruby-doc.org/core-2.4.1/doc/syntax/modules_and_classes_rdoc.html
 # https://learnxinyminutes.com/docs/ruby/
 
+# main class
+p self       #=> main
+p self.class #=> Object
+
+# syntax sugar
+p 1.+(1) #=> 2
+p 1.+ 1  #=> 2
+p 1 + 1  #=> 2
+
 ## Module ##
 module ModuleExample
   def foo
@@ -62,6 +71,11 @@ end
 
 puts Object.new.class
 puts Student.new.class
+
+student = Student.new
+# student.name=("Fulano")
+student.name = "Fulano"
+puts student.name
 
 class Student
   attr_reader :id, :email

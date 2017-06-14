@@ -1,125 +1,140 @@
 # String
-# http://ruby-doc.org/core-2.3.1/doc/syntax/literals_rdoc.html#label-Strings
+# http://ruby-doc.org/core-2.4.1/doc/syntax/literals_rdoc.html#label-Strings
 
-  # Single Quote: (\', \\)
-  puts 'lorem ipsum dolor'.class
-  puts 'lorem ipsum dolor'
-  puts 'lorem\' ipsum dolor'
-  puts 'lorem\\ ipsum dolor'
-  puts 'lorem\nipsum dolor'
+# Single Quote, Double Quote, Interpolation, Kernel#format, Percent String
+# single character
+# heredoc: <<, <<-, <<-', <<~ (squiggly), <<-`
+# String OO: Concat (+ <<), Transform (upcase, downcase), empty?, include?
+#            split, gsub, *
+
+# Single Quote: (\', \\)
+  puts 'lorem ipsum dolor'.class #=> String
+  puts 'lorem ipsum dolor'       #=> lorem ipsum dolor
+  puts 'lorem\' ipsum dolor'     #=> lorem' ipsum dolor
+  puts 'lorem\\ ipsum dolor'     #=> lorem\ ipsum dolor
+  puts 'lorem\nipsum dolor'      #=> lorem\nipsum dolor
   puts 'lorem ipsum
-dolor'
+dolor'                           #=> lorem ipsum
+                                 #=> dolor
 
-  # Double Quote
-  puts "lorem ipsum dolor".class
-  puts "lorem ipsum dolor"
-  puts "lorem\nipsum dolor"
+# Double Quote
+  puts "lorem ipsum dolor".class #=> String
+  puts "lorem ipsum dolor"       #=> lorem ipsum dolor
+  puts "lorem\nipsum dolor"      #=> lorem
+                                 #=> ipsum dolor
   puts "lorem ipsum
-  dolor"
+  dolor"                         #=> lorem ipsum
+                                 #=>    dolor
 
-  # Interpolation
-  puts '1 + 1 = #{1 + 1}'
-  puts "1 + 1 = #{1 + 1}"
+# Interpolation
+  puts '1 + 1 = #{1 + 1}'        #=> 1 + 1 = #{1 + 1}
+  puts "1 + 1 = #{1 + 1}"        #=> 1 + 1 = 2
 
-  puts "%s:%s" % [10, 10]
-  puts format("%s", 10) # Kernel#format
-  puts format("%{valor}", valor: 10)
+# Kernel#format
+  puts "%s:%s" % [10, 10]        #=> 10:10
+  puts format("%s", 10)          #=> 10
+  puts format("%{valor}", valor: 10) #=> 10
 
-  # Percent String
-  # http://ruby-doc.org/core-2.3.1/doc/syntax/literals_rdoc.html#label-Percent+Strings
-  puts %(lorem ipsum dolor).class
-  puts %(lorem ipsum dolor)
-  puts %q(1 + 1 is 2)
-  puts %q[1 + 1 is 2]
-  puts %q{1 + 1 is 2}
-  puts %q|1 + 1 is 2|
-  puts %q!1 + 1 is 2!
-  puts %q?1 + 1 is 2?
-  puts %q\1 + 1 is 2\
-  puts %q(1 + 1 is #{1 + 1})
-  puts %Q(1 + 1 is 2)
-  puts %Q(1 + 1 is #{1 + 1})
-  puts %Q(1 + 1 is\n#{1 + 1})
-  puts %Q(1 + 1 is\n#{1 + 1}).inspect
-  puts %i(lorem ispum dolor).inspect
-  puts %s(lorem ispum dolor).inspect
-  puts %r(lorem ispum dolor).inspect
-  puts %w(lorem ispum dolor).inspect
-  puts %w(lorem\ ispum dolor).inspect
-  puts %x(ls) # `ls`
+# Percent String
+  # http://ruby-doc.org/core-2.4.1/doc/syntax/literals_rdoc.html#label-Percent+Strings
+  puts %(lorem ipsum dolor).class #=> String
+  puts %(lorem ipsum dolor)       #=> lorem ipsum dolor
+  puts %q(1 + 1 is 2)             #=> 1 + 1 is 2
+  puts %q[1 + 1 is 2]             #=> 1 + 1 is 2
+  puts %q{1 + 1 is 2}             #=> 1 + 1 is 2
+  puts %q|1 + 1 is 2|             #=> 1 + 1 is 2
+  puts %q!1 + 1 is 2!             #=> 1 + 1 is 2
+  puts %q?1 + 1 is 2?             #=> 1 + 1 is 2
+  puts %q\1 + 1 is 2\             #=> 1 + 1 is 2
+  puts %q(1 + 1 is #{1 + 1})      #=> 1 + 1 is #{1 + 1}
+  puts %Q(1 + 1 is 2)             #=> 1 + 1 is 2
+  puts %Q(1 + 1 is #{1 + 1})      #=> 1 + 1 is 2
+  puts %Q(1 + 1 is\n#{1 + 1})     #=> 1 + 1 is
+                                  #=> 2
+  puts %Q(1 + 1 is\n#{1 + 1}).inspect #=> "1 + 1 is\n2"
+  puts %i(lorem ispum dolor).inspect  #=> [:lorem, :ispum, :dolor]
+  puts %s(lorem ispum dolor).inspect  #=> :"lorem ispum dolor"
+  puts %r(lorem ispum dolor).inspect  #=> /lorem ispum dolor/
+  puts %w(lorem ispum dolor).inspect  #=> ["lorem", "ispum", "dolor"]
+  puts %w(lorem\ ispum dolor).inspect #=> ["lorem ispum", "dolor"]
+  puts %x(ls)                         # `ls`
 
-  # heredoc
-  # http://ruby-doc.org/core-2.3.1/doc/syntax/literals_rdoc.html#label-Here+Documents
+# heredoc
+  # http://ruby-doc.org/core-2.4.1/doc/syntax/literals_rdoc.html#label-Here+Documents
   puts <<HEREDOC
 lorem ipsum
 dolor
 HEREDOC
+  #=> lorem ipsum
+  #=> dolor
 
   puts <<LOREM
 lorem ipsum
 dolor
 LOREM
+  #=> lorem ipsum
+  #=> dolor
 
   puts <<-HEREDOC
-  ping: option requires an argument -- h
-  usage: ping [-AaDdfnoQqRrv] [-b boundif] [-c count] [-G sweepmaxsize]
-              [-g sweepminsize] [-h sweepincrsize] [-i wait] [−k trafficclass]
-              [-l preload] [-M mask | time] [-m ttl] [-p pattern]
-              [-S src_addr] [-s packetsize] [-t timeout][-W waittime] [-z tos]
-              host
-         ping [-AaDdfLnoQqRrv] [-b boundif] [-c count] [-I iface] [-i wait]
-              [−k trafficclass] [-l preload] [-M mask | time] [-m ttl] [-p pattern] [-S src_addr]
-              [-s packetsize] [-T ttl] [-t timeout] [-W waittime]
-              [-z tos] mcast-group
+ls: illegal option -- -
+usage: ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]
   HEREDOC
+  #=> ls: illegal option -- -
+  #=> usage: ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]
 
   puts <<-HEREDOC
-  1 + 1 is #{1 + 1}
+1 + 1 is #{1 + 1}
   HEREDOC
+  #=> 1 + 1 is 2
 
   puts <<-'HEREDOC'
-  1 + 1 is #{1 + 1}
+1 + 1 is #{1 + 1}
   HEREDOC
+  #=> 1 + 1 is #{1 + 1}
 
-  # squiggly heredoc
+  # squiggly heredoc (~)
   puts <<~HEREDOC
     lorem ipsum
       dolor
   HEREDOC
+  #=> lorem ipsum
+  #=>   dolor
 
   puts <<-`HEREDOC`
   ls
   HEREDOC
+  # `ls`
 
   # Single character
-  puts ?a
+  puts ?a #=> a
 
+# String OO
   # Concat: + <<
-  puts "lorem".+("ipsum")
-  puts "lorem".+ "ipsum"
-  puts "lorem"+"ipsum"
-  puts "lorem"+1
-  puts "lorem"+1.to_s
-  puts "lorem#{1}"
+  puts "lorem".+("ipsum") #=> loremipsum
+  puts "lorem".+ "ipsum"  #=> loremipsum
+  puts "lorem"+"ipsum"    #=> loremipsum
+  puts "lorem"+1          #=> no implicit conversion of Integer into String
+  puts "lorem"+1.to_s     #=> lorem1
+  puts "lorem#{1}"        #=> lorem1
 
   name = "lorem"
   puts name.object_id.to_s(32)
   name << "ipssum"
-  puts name
+  puts name                    #=> loremipssum
   puts name.object_id.to_s(32)
 
   # Transform upcase downcase
   name = "lorem"
-  puts name.upcase
-  puts name
-  puts name.upcase!
-  puts name
-  puts name.downcase
-  puts "lorem ipsum dolor".capitalize
+  puts name.upcase    #=> LOREM
+  puts name           #=> lorem
+  puts name.upcase!   #=> LOREM
+  puts name           #=> LOREM
+  puts name.downcase  #=> lorem
+  puts "lorem ipsum dolor".capitalize #=> Lorem ipsum dolor
 
   # Outros
-  puts "".empty?
-  puts "lorem ipsum dolor".include? "dolor"
-  puts "lorem ipsum dolor".split(" ").inspect
-  puts "lorem ipsum dolor".gsub "dolor", "DOLOR"
-  puts "lorem ipsum dolor" * 3
+  puts "".empty?                                 #=> true
+  puts "lorem ipsum dolor".include? "dolor"      #=> true
+  puts "lorem ipsum dolor".split(" ").inspect    #=> ["lorem", "ipsum", "dolor"]
+  puts "lorem ipsum dolor".gsub "dolor", "DOLOR" #=> lorem ipsum DOLOR
+  puts "lorem" * 3                               #=> loremloremlorem

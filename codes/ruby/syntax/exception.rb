@@ -1,5 +1,8 @@
 # http://ruby-doc.org/core-2.3.1/doc/syntax/exceptions_rdoc.html
 
+# method: rescue
+# begin...end block: rescue, multiple rescue, else, ensure, raise, warn, $!, $@
+
 # rescue method
 def do_something
   # ... do something ...
@@ -14,7 +17,7 @@ rescue ArgumentError, NameError
   # handle ArgumentError or NameError
 end
 
-# rescue
+# multiple rescue begin...end block
 begin
   # ...
 rescue ArgumentError
@@ -25,6 +28,7 @@ rescue
   # handle any StandardError
 end
 
+# rescue else & ensure
 begin
   # ...
 rescue
@@ -44,8 +48,9 @@ def gt10(number)
 rescue Exception => e
   warn e.message
 end
-gt10(11)
-gt10(10)
+p gt10(11) #=> true
+p gt10(10) #=> nil
+           #   Exception
 
 class NotGreaterThanError < StandardError
 end
@@ -58,5 +63,9 @@ rescue NotGreaterThanError => e
   puts $! # current exception
   puts $@ # exception’s backtrace
 end
-gt(10,20)
-gt(100,20)
+p gt(10,20)  #=> true
+p gt(100,20) # Not greater than error
+             # -e:55:in `gt'
+             # -e:63:in `<main>'
+             # nil
+             # Not greater than error
