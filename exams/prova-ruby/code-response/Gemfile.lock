@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/aptinio/text-table.git
+  revision: 42b0f78f8771d4649a7d7b959bce221656eeac58
+  specs:
+    text-table (1.2.3)
+
+GEM
+  specs:
+    minitest (5.10.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  text-table!
+
+BUNDLED WITH
+   1.14.6

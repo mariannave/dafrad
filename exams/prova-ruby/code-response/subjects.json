@@ -1,0 +1,4012 @@
+[
+  {
+    "name": "ESTATISTICA",
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "instructor": {
+      "id": "11",
+      "name": "ALBERTO PEREIRA DE BARROS"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROBABILIDADE E ESTATISTICA",
+    "course": "BACHARELADO EM ENGENHARIA ELETRICA",
+    "instructor": {
+      "id": "11",
+      "name": "ALBERTO PEREIRA DE BARROS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROBABILIDADE E ESTATISTICA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "11",
+      "name": "ALBERTO PEREIRA DE BARROS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "TEORIA DA ESTATISTICA",
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "instructor": {
+      "id": "11",
+      "name": "ALBERTO PEREIRA DE BARROS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTRUTURA DE DADOS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "601",
+      "name": "ALEX SANDRO DA CUNHA REGO"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FILOSOFIA I / SOCIOLOGIA I",
+    "course": "ELETRÔNICA INTEGRADO",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FILOSOFIA II - ANUAL",
+    "course": "ELETRÔNICA INTEGRADO",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "FILOSOFIA III",
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA METODOLOGIA CIENTIFICA",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA METODOLOGIA CIENTIFICA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "instructor": {
+      "id": "21",
+      "name": "ALLAN PATRICK DE LUCENA COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "ARQUITETURA DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "57",
+      "name": "CAIO SERGIO DE VASCONCELOS BATISTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "instructor": {
+      "id": "57",
+      "name": "CAIO SERGIO DE VASCONCELOS BATISTA"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "18:20:00",
+        "end": "19:10:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      }
+    ]
+  },
+  {
+    "name": "PROTOCOLOS DE INTERCON DE REDES DE COMPU",
+    "course": "BACHARELADO EM ENGENHARIA ELETRICA",
+    "instructor": {
+      "id": "57",
+      "name": "CAIO SERGIO DE VASCONCELOS BATISTA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROTOCOLOS E INTERC. DE REDES DE COMP.",
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "instructor": {
+      "id": "57",
+      "name": "CAIO SERGIO DE VASCONCELOS BATISTA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTRUTURA DE DADOS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "58",
+      "name": "CANDIDO JOSE RAMOS DO EGYPTO"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTRUTURA DE DADOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "58",
+      "name": "CANDIDO JOSE RAMOS DO EGYPTO"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "82",
+      "name": "CRISHANE AZEVEDO FREIRE"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "82",
+      "name": "CRISHANE AZEVEDO FREIRE"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "BANCO DE DADOS I",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "82",
+      "name": "CRISHANE AZEVEDO FREIRE"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "BANCO DE DADOS II",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "85",
+      "name": "DAMIRES YLUSKA DE SOUZA FERNANDES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "TOPICOS ESPECIAIS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "85",
+      "name": "DAMIRES YLUSKA DE SOUZA FERNANDES"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTATISTICA",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "86",
+      "name": "DANIEL MATOS DE CARVALHO - ESTATÍSTICA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTATISTICA APLICADA A DMINISTRACAO",
+    "course": "ADMINISTRACAO M",
+    "instructor": {
+      "id": "86",
+      "name": "DANIEL MATOS DE CARVALHO - ESTATÍSTICA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTATISTICA BASICA",
+    "course": "ADMINISTRACAO M",
+    "instructor": {
+      "id": "86",
+      "name": "DANIEL MATOS DE CARVALHO - ESTATÍSTICA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROBABILIDADE E ESTATISTICA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "86",
+      "name": "DANIEL MATOS DE CARVALHO - ESTATÍSTICA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROTOCOLOS DE INTERCON DE REDES DE COMPUT",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "91",
+      "name": "DENIO MARIZ TIMOTEO DE SOUSA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "SEGURANCA DE DADOS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "91",
+      "name": "DENIO MARIZ TIMOTEO DE SOUSA"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "SEGURANCA DE REDES DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "91",
+      "name": "DENIO MARIZ TIMOTEO DE SOUSA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "LINGUAGENS DE MARCAÇÃO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "97",
+      "name": "EDEMBERG ROCHA DA SILVA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO DISTRIBUIDA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "97",
+      "name": "EDEMBERG ROCHA DA SILVA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO PARA WEB I",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "97",
+      "name": "EDEMBERG ROCHA DA SILVA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ADMINISTRACAO DE SISTEMAS ABERTOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "109",
+      "name": "ELIONILDO DA SILVA MENEZES - REDES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ADMINISTRACAO DE SISTEMAS PROPRIETARIOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "109",
+      "name": "ELIONILDO DA SILVA MENEZES - REDES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PRATICAS DE SISTEMAS ABERTOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "109",
+      "name": "ELIONILDO DA SILVA MENEZES - REDES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "GRAMÁTICA E LITERATURA",
+    "course": "EXTENSÃO - PROENEM",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA III",
+    "course": "MUSICA INTEGRADO",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA IV",
+    "course": "CONTROLE AMBIENTAL",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA IV",
+    "course": "MUSICA INTEGRADO",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES INSTRUMENTAL",
+    "course": "LICENCIATURA EM QUIMICA",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUÊS INSTRUMENTAL",
+    "course": "MUSICA SUB",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES INSTRUMENTAL",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "116",
+      "name": "ERICKA ANULINA CUNHA DE OLIVEIRA - PORT"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "129",
+      "name": "FABRIZIA MEDEIROS DE SOUSA MATOS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "instructor": {
+      "id": "129",
+      "name": "FABRIZIA MEDEIROS DE SOUSA MATOS"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "instructor": {
+      "id": "129",
+      "name": "FABRIZIA MEDEIROS DE SOUSA MATOS"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO DE SCRIPT",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "129",
+      "name": "FABRIZIA MEDEIROS DE SOUSA MATOS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "BANCO DE DADOS",
+    "course": "GEOPROCESSAMENTO NOVO",
+    "instructor": {
+      "id": "131",
+      "name": "FAUSTO VERAS MARANHAO AYRES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA",
+    "course": "EDIFICACOES SUB",
+    "instructor": {
+      "id": "131",
+      "name": "FAUSTO VERAS MARANHAO AYRES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PERSISTENCIA DE OBJETOS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "131",
+      "name": "FAUSTO VERAS MARANHAO AYRES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO ORIENTADA A OBJETOS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "131",
+      "name": "FAUSTO VERAS MARANHAO AYRES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INTERACAO HUMANO-COMPUTADOR",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "147",
+      "name": "FRANCISCO PETRONIO ALENCAR DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PADROES DE PROJETO DE SOFTWARE",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "147",
+      "name": "FRANCISCO PETRONIO ALENCAR DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO ORIENTADA A OBJETOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "147",
+      "name": "FRANCISCO PETRONIO ALENCAR DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA COMPUTAÇÃO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "152",
+      "name": "FREDERICO COSTA GUEDES PEREIRA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO PARA WEB II",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "152",
+      "name": "FREDERICO COSTA GUEDES PEREIRA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ELETRONICA DIGITAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "167",
+      "name": "GIOVANNI LOUREIRO CABRAL DE MELO"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTRUTURA DE DADOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "167",
+      "name": "GIOVANNI LOUREIRO CABRAL DE MELO"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "MUSICA INTEGRADO",
+    "instructor": {
+      "id": "167",
+      "name": "GIOVANNI LOUREIRO CABRAL DE MELO"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ARQUITETURA DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "168",
+      "name": "GIOVANNI LOUREIRO FRANCA DE MENDONCA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ELETRONICA DIGITAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "168",
+      "name": "GIOVANNI LOUREIRO FRANCA DE MENDONCA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "COMERCIO ELETRONICO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "178",
+      "name": "HEREMITA BRASILEIRO LIRA"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTAGIO SUPERVISIONADO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "178",
+      "name": "HEREMITA BRASILEIRO LIRA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      }
+    ]
+  },
+  {
+    "name": "GERENCIA DE PROJETOS DE SOFTWARE",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "178",
+      "name": "HEREMITA BRASILEIRO LIRA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "COMUNICACAO ORGANIZACIONAL",
+    "course": "NEGOCIOS IMOBILIARIOS",
+    "instructor": {
+      "id": "599",
+      "name": "JAEL PEREIRA DA SILVA ROCHA - PORTUGUÊS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "18:20:00",
+        "end": "19:10:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      }
+    ]
+  },
+  {
+    "name": "LÍNGUA PORTUGUESA E LIT BRASILEIRA IV",
+    "course": "CONTABILIDADE INTEGRADO",
+    "instructor": {
+      "id": "599",
+      "name": "JAEL PEREIRA DA SILVA ROCHA - PORTUGUÊS"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA II",
+    "course": "CONTABILIDADE INTEGRADO",
+    "instructor": {
+      "id": "599",
+      "name": "JAEL PEREIRA DA SILVA ROCHA - PORTUGUÊS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA II",
+    "course": "CONTROLE AMBIENTAL",
+    "instructor": {
+      "id": "599",
+      "name": "JAEL PEREIRA DA SILVA ROCHA - PORTUGUÊS"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES INSTRUMENTAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "599",
+      "name": "JAEL PEREIRA DA SILVA ROCHA - PORTUGUÊS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ESTAGIO SUPERVISIONADO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "191",
+      "name": "JAILDO TAVARES PEQUENO"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "LEGISLACAO SOCIAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "191",
+      "name": "JAILDO TAVARES PEQUENO"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "LEGISLACAO SOCIAL",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "191",
+      "name": "JAILDO TAVARES PEQUENO"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ADMINISTRACAO DE ATIVOS DE REDES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "221",
+      "name": "JOSE GOMES QUARESMA FILHO"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "PRATICAS EM SEGURANCA DE REDES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "221",
+      "name": "JOSE GOMES QUARESMA FILHO"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROTOCOLOS DE INTERCON DE REDES DE COMPUT",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "221",
+      "name": "JOSE GOMES QUARESMA FILHO"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "REDES SEM FIO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "221",
+      "name": "JOSE GOMES QUARESMA FILHO"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "237",
+      "name": "JULIANA DANTAS RIBEIRO VIANA DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "237",
+      "name": "JULIANA DANTAS RIBEIRO VIANA DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO ESTRUTURADA",
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "instructor": {
+      "id": "237",
+      "name": "JULIANA DANTAS RIBEIRO VIANA DE MEDEIROS"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "18:20:00",
+        "end": "19:10:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      }
+    ]
+  },
+  {
+    "name": "INTERACAO HUMANO-COMPUTADOR",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "245",
+      "name": "LAFAYETTE BATISTA MELO"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "METODOS E TECNICAS DE PESQUISA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "245",
+      "name": "LAFAYETTE BATISTA MELO"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "METODOS E TECNICAS DE PESQUISA",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "245",
+      "name": "LAFAYETTE BATISTA MELO"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "248",
+      "name": "LEANDRO CAVALCANTI DE ALMEIDA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROJETOS DE REDES DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "248",
+      "name": "LEANDRO CAVALCANTI DE ALMEIDA"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PRATICAS DE SISTEMAS ABERTOS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "256",
+      "name": "LUCIANA PEREIRA OLIVEIRA - REDES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO DE SCRIPT",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "256",
+      "name": "LUCIANA PEREIRA OLIVEIRA - REDES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "REDES CONVERGENTES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "256",
+      "name": "LUCIANA PEREIRA OLIVEIRA - REDES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "DESENVOLVIMENTO AGIL COM FERRAMENTA RAD",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "262",
+      "name": "LUIZ CARLOS RODRIGUES CHAVES"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "DESENVOLVIMENTO WEB",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "262",
+      "name": "LUIZ CARLOS RODRIGUES CHAVES"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "LINGUAGENS DE MARCAÇÃO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "262",
+      "name": "LUIZ CARLOS RODRIGUES CHAVES"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "LINGUAGENS DE SCRIPT",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "262",
+      "name": "LUIZ CARLOS RODRIGUES CHAVES"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGEBRA VETORIAL",
+    "course": "BACHARELADO EM ENGENHARIA ELETRICA",
+    "instructor": {
+      "id": "270",
+      "name": "MANOEL WALLACE ALVES RAMOS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "270",
+      "name": "MANOEL WALLACE ALVES RAMOS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "EQUACOES DIFERENCIAIS",
+    "course": "BACHARELADO EM ENGENHARIA ELETRICA",
+    "instructor": {
+      "id": "270",
+      "name": "MANOEL WALLACE ALVES RAMOS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "635",
+      "name": "MARCIO EMANUEL UGULINO DE ARAUJO JUNIOR"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "635",
+      "name": "MARCIO EMANUEL UGULINO DE ARAUJO JUNIOR"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROTOCOLOS DE INTERCON DE REDES DE COMPUT",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "635",
+      "name": "MARCIO EMANUEL UGULINO DE ARAUJO JUNIOR"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "EMPREENDEDORISMO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "287",
+      "name": "MARCUS VINICIUS DELGADO VARANDAS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "EMPREENDEDORISMO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "287",
+      "name": "MARCUS VINICIUS DELGADO VARANDAS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "LINGUAGEM DE PROGRAMACAO",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "287",
+      "name": "MARCUS VINICIUS DELGADO VARANDAS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "INGLES I",
+    "course": "EVENTOS - PROEJA - UA5",
+    "instructor": {
+      "id": "304",
+      "name": "MARIA THERESA TARGINO DE ARAUJO RANGEL"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "18:20:00",
+        "end": "19:10:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      }
+    ]
+  },
+  {
+    "name": "INGLES INSTRUMENTAL",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "304",
+      "name": "MARIA THERESA TARGINO DE ARAUJO RANGEL"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INGLES INSTRUMENTAL",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "304",
+      "name": "MARIA THERESA TARGINO DE ARAUJO RANGEL"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INGLÊS INTERMEDIÁRIO I",
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "instructor": {
+      "id": "304",
+      "name": "MARIA THERESA TARGINO DE ARAUJO RANGEL"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "GESTAO AMBIENTAL",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "CONTABILIDADE INTEGRADO",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PSICOLOGIA DO TRABALHO",
+    "course": "AUTOMACAO INDUSTRIAL",
+    "instructor": {
+      "id": "311",
+      "name": "MARTA LUCIA DE SOUZA CABRAL"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "ANALISE E PROJETO DE SISTEMAS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "327",
+      "name": "NADJA DA NOBREGA RODRIGUES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "DESENVOLVIMENTO E EXEC. PROJ.DE SOFTWARE",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "327",
+      "name": "NADJA DA NOBREGA RODRIGUES"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ARQUITETURA DE SISTEMAS DE COMUNICACAO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "603",
+      "name": "NIEDSON ALMEIDA LEMOS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "CABEAMENTO ESTRUTURADO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "603",
+      "name": "NIEDSON ALMEIDA LEMOS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "COMUNICACOES DIGITAIS",
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "instructor": {
+      "id": "603",
+      "name": "NIEDSON ALMEIDA LEMOS"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "21:40:00",
+        "end": "22:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "18:20:00",
+        "end": "19:10:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      }
+    ]
+  },
+  {
+    "name": "FISICA APLICADA A COMPUTACAO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "332",
+      "name": "NILSON FERNANDES THOMAZ DA SILVA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FISICA II",
+    "course": "CONTABILIDADE INTEGRADO",
+    "instructor": {
+      "id": "332",
+      "name": "NILSON FERNANDES THOMAZ DA SILVA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "FISICA II",
+    "course": "BACHARELADO EM ENGENHARIA ELETRICA",
+    "instructor": {
+      "id": "332",
+      "name": "NILSON FERNANDES THOMAZ DA SILVA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "FISICA III",
+    "course": "ELETRÔNICA INTEGRADO",
+    "instructor": {
+      "id": "332",
+      "name": "NILSON FERNANDES THOMAZ DA SILVA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "BANCO DE DADOS",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "333",
+      "name": "NILTON FREIRE SANTOS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "BANCO DE DADOS I",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "333",
+      "name": "NILTON FREIRE SANTOS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "LOGICA DE PROGRAMACAO E ALGORITIMOS",
+    "course": "GEOPROCESSAMENTO",
+    "instructor": {
+      "id": "333",
+      "name": "NILTON FREIRE SANTOS"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA METODOLOGIA CIENTIFICA",
+    "course": "AUTOMACAO INDUSTRIAL",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA METODOLOGIA CIENTIFICA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "METODOLOGIA DA PESQUISA CIENTIFICA",
+    "course": "ELETRÔNICA INTEGRADO",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      }
+    ]
+  },
+  {
+    "name": "SOCIOLOGIA I",
+    "course": "CONTROLE AMBIENTAL",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "SOCIOLOGIA III",
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "SOCIOLOGIA III",
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "instructor": {
+      "id": "583",
+      "name": "PAULA OLIVEIRA ADISSI - SOCIOLOGIA"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "11:30:00",
+        "end": "12:20:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "341",
+      "name": "PAULO DITARSO MACIEL JUNIOR"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "LABORATORIO DE REDES DE COMPUTADORES",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "341",
+      "name": "PAULO DITARSO MACIEL JUNIOR"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "SISTEMAS OPERACIONAIS",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "341",
+      "name": "PAULO DITARSO MACIEL JUNIOR"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "QUINTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "SISTEMAS OPERACIONAIS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "341",
+      "name": "PAULO DITARSO MACIEL JUNIOR"
+    },
+    "times": [
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "TERÇA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      }
+    ]
+  },
+  {
+    "name": "FUNDAMENTOS DA COMPUTACAO",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "346",
+      "name": "PAULO ROBERTO SANTOS COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "CONTROLE AMBIENTAL",
+    "instructor": {
+      "id": "346",
+      "name": "PAULO ROBERTO SANTOS COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "MECANICA INTEGRADO",
+    "instructor": {
+      "id": "346",
+      "name": "PAULO ROBERTO SANTOS COSTA"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATICA BASICA I",
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "instructor": {
+      "id": "346",
+      "name": "PAULO ROBERTO SANTOS COSTA"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "17:30:00",
+        "end": "18:20:00"
+      }
+    ]
+  },
+  {
+    "name": "INTELIGENCIA EMPRESARIAL",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "346",
+      "name": "PAULO ROBERTO SANTOS COSTA"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  },
+  {
+    "name": "MATEMATICA APLICADA A GESTAO AMBIENTAL",
+    "course": "GESTAO AMBIENTAL",
+    "instructor": {
+      "id": "353",
+      "name": "RAFAEL JOSE ALVES DO REGO BARROS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "09:50:00",
+        "end": "10:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "10:40:00",
+        "end": "11:30:00"
+      }
+    ]
+  },
+  {
+    "name": "MATEMATICA APLICADA A SI",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "353",
+      "name": "RAFAEL JOSE ALVES DO REGO BARROS"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      }
+    ]
+  },
+  {
+    "name": "INGLES INSTRUMENTAL",
+    "course": "REDES DE COMPUTADORES",
+    "instructor": {
+      "id": "650",
+      "name": "ROSANA DE OLIVEIRA SÁ - INGLÊS"
+    },
+    "times": [
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:00:00",
+        "end": "07:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "07:50:00",
+        "end": "08:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "08:40:00",
+        "end": "09:30:00"
+      }
+    ]
+  },
+  {
+    "name": "PORTUGUES E LITERATURA BRASILEIRA I",
+    "course": "EVENTOS - PROEJA - UA5",
+    "instructor": {
+      "id": "650",
+      "name": "ROSANA DE OLIVEIRA SÁ - INGLÊS"
+    },
+    "times": [
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "19:10:00",
+        "end": "20:00:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:00:00",
+        "end": "20:50:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "20:50:00",
+        "end": "21:40:00"
+      }
+    ]
+  },
+  {
+    "name": "ALGORITMOS E PROGRAMACAO ESTRUTURADA",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "409",
+      "name": "VALERIA MARIA BEZERRA CAVALCANTI - SI"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "16:40:00",
+        "end": "17:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "14:40:00",
+        "end": "15:30:00"
+      },
+      {
+        "day": "QUARTA-FEIRA",
+        "start": "15:50:00",
+        "end": "16:40:00"
+      }
+    ]
+  },
+  {
+    "name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
+    "course": "SISTEMAS PARA INTERNET",
+    "instructor": {
+      "id": "409",
+      "name": "VALERIA MARIA BEZERRA CAVALCANTI - SI"
+    },
+    "times": [
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEGUNDA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:00:00",
+        "end": "13:50:00"
+      },
+      {
+        "day": "SEXTA-FEIRA",
+        "start": "13:50:00",
+        "end": "14:40:00"
+      }
+    ]
+  }
+]

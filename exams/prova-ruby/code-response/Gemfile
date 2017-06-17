@@ -1,0 +1,7 @@
+gem 'minitest'
+
+# https://github.com/aptinio/text-table
+# https://github.com/tj/terminal-table
+# http://tableprintgem.com/
+# https://github.com/arches/table_print
+gem 'text-table', :github => 'aptinio/text-table'
