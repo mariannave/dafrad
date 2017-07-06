@@ -14,11 +14,13 @@ Quanto ao tema será livre, ou seja, a definição do domínio de negócio, layo
 > * Aluno 1 - matricula
 > * Aluno 2 - matricula
 
-**Equipe #2**: [getcar]()
+**Equipe #2**: [getcar](https://github.com/WenderMrn/getcar-system.git)
 
 > Membros:
-> * Aluno 1 - matricula
-> * Aluno 2 - matricula
+> * Lucas Schulze    - 20121370288 
+> * Natanael Guedes  - 20121370431
+> * Vicente Correia  - 20132370292
+> * Wender Mariano   - 20131370159 
 
 ## Exigências do Projeto
 
