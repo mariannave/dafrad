@@ -11,16 +11,20 @@ Quanto ao tema será livre, ou seja, a definição do domínio de negócio, layo
 **Equipe #1**: [hifpb](https://gitlab.com/joffily/hifpb)
 
 > Membros:
-> * Aluno 1 - matricula
-> * Aluno 2 - matricula
+> * Andre Alencar       - 20132370284
+> * Joffily Ferreira    - 20142370040
+> * Maria Aparecida     - 20142370309
+> * Marianna Verissimo  - 20142370201
+> * Rafael Figueiredo   - 20141370402
+
 
 **Equipe #2**: [getcar](https://github.com/WenderMrn/getcar-system.git)
 
 > Membros:
-> * Lucas Schulze    - 20121370288 
+> * Lucas Schulze    - 20121370288
 > * Natanael Guedes  - 20121370431
 > * Vicente Correia  - 20132370292
-> * Wender Mariano   - 20131370159 
+> * Wender Mariano   - 20131370159
 
 ## Exigências do Projeto
 
