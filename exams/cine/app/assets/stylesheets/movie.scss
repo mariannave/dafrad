@@ -239,7 +239,6 @@ main #movies .movie {
   box-sizing: border-box;
   margin: 20px auto;
   display: block;
-  /*min-width: 300px;*/
 }
 
 @media (min-width: 1200px){
@@ -296,17 +295,15 @@ main #movies .movie .cover:hover:before {
 
 main #movies .movie .data {
   float: right;
-
-}
-
-main #movies .movie .data>*{
-  margin-left: 5px;
+  margin: 0 auto;
+  max-width: 60%;
+  display: inline-block;
+  vertical-align: top;
 }
 
 main #movies .movie .name {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.1em;
-  // margin: 0 5px;
+  font-size: 1.2em;
 }
 
 main #movies .movie .info {
@@ -320,26 +317,18 @@ main #movies .movie .genre, main #movies .movie .time {
   border-radius: 3px;
   padding: 1px 3px;
   margin: 10px 5px 10px 0;
-  // font-size: .7em;
+  font-size: .8em;
   display: inline-block;
 }
 
 main #movies .movie .time {
-  font-size: 2em;
-}
-
-main #movies .movie .schedule {
-  display: inline-block;
-  width: 100px;
+  font-size: 1em;
 }
 
 main #movies .movie .schedule b {
   font-family: 'Roboto', sans-serif;
 }
 
-main #movies .movie .schedule span{
-  display: block;
-}
 
 /* LOCATION */
 main #location {
