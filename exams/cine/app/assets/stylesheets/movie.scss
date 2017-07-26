@@ -1,0 +1,435 @@
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../font/Open-Sans.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Roboto Black'), local('Roboto-Black'), url(../font/Roboto-Black.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+.icon.pricetags {
+  background-image: url(../img/pricetags.png);
+}
+
+.icon.ios-calendar {
+  background-image: url(../img/ios-calendar.png);
+}
+
+.icon.person {
+  background-image: url(../img/person.png);
+}
+
+.white-text {
+  color: #fff;
+}
+
+.menu {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu li {
+  margin-top: 15px;
+}
+
+.menu-inline.right {
+  float: right;
+}
+
+.menu-inline {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  display: inline-block;
+  line-height: 70px;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.menu-inline li {
+  display: inline-block;
+  line-height: 70px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0 20px;
+}
+
+.menu-inline li a, .menu li a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 4px solid transparent;
+  transition: all .5s;
+}
+
+.menu-inline li a:hover, .menu li a:hover {
+  border-color: inherit;
+}
+
+.logo:before {
+  display: inline-block;
+  line-height: 70px;
+  vertical-align: middle;
+  content: "CINE BANGÜÊ";
+  font-weight: bold;
+  font-size: 1.3em;
+  // width: 150px;
+  height: 70px;
+  margin-left: 10px;
+  color: #fff;
+  /*color: transparent;
+  background: linear-gradient(135deg, rgba(30, 33, 33, .70) 1%, rgba(32, 32, 32, .14) 98%), url(../img/cine_bangue.jpg);
+  -webkit-background-clip: text;*/
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+@media (max-width: 899px){
+  .container {
+    width: 90vw;
+  }
+}
+
+@media (min-width: 900px){
+  .container {
+    width: 900px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 1200px){
+  .container {
+    width: 1000px;
+    margin: auto;
+  }
+}
+
+/* NAV */
+nav {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 70px;
+  background-color: #1565C0;
+}
+
+@media (max-width: 899px){
+  nav .menu-inline {
+    display: none;
+  }
+}
+
+/* HEADER */
+header {
+  height: 400px;
+  margin-top: 70px;
+  text-align: center;
+  background-color: #1565C0;
+  background-image: url(../img/cine_bangue.jpg);
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+@media (max-width: 899px){
+  header {
+    display: none;
+  }
+}
+
+header div {
+  width: 80%;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+header div h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 5em;
+  margin: 0;
+}
+
+header div p{
+  font-size: 2em;
+}
+
+/* SCHEDULES */
+main #schedules {
+  margin: 0 auto;
+  padding: 80px 0 10px;
+}
+
+main #schedules ul {
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  white-space: nowrap;
+  overflow-x: visible;
+  overflow-y: hidden;
+}
+
+main #schedules li {
+  display: inline-block;
+  margin: 0.3% 1%;
+  border: 1px solid #555;
+  border-radius: 4px;
+  font-size: 15px;
+  padding: 5px;
+
+  a {
+    color: #555;
+    text-decoration: none;
+  }
+}
+
+main #schedules li input+label {
+  display: inline-block;
+  margin: 0.3%;
+  border: 2px solid #666;
+  border-radius: 3px;
+  padding: 1px 3px;
+}
+
+main #schedules li input:checked+label {
+  background-color: #666;
+}
+
+main #schedules li input+label a {
+  color: #666;
+  text-decoration: none;
+}
+
+main #schedules li input:checked+label a {
+  color: #fff;
+}
+
+main #schedules li input {
+  display: none;
+}
+
+/* MOVIES */
+main #movies {
+  margin: 0 auto;
+  padding: 10px 0 80px;
+}
+
+main #movies .season-info {
+  border-left: 10px solid #01579B;
+  padding: 10px;
+  margin-left: 1%;
+}
+
+main #movies .movie {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  height: 190px;
+  padding: 2%;
+  box-sizing: border-box;
+  margin: 20px auto;
+  display: block;
+  /*min-width: 300px;*/
+}
+
+@media (min-width: 1200px){
+  main #movies .movie {
+    width: 47.5%;
+    display: inline-block;
+    margin: 20px 1%;
+  }
+}
+
+main #movies .movie .cover {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  border: 3px solid transparent;
+  margin-right: 1%;
+  width: 100px;
+  height: 150px;
+  transition: background 1s;
+  will-change: background;
+  display: inline-block;
+  vertical-align: top;
+}
+
+@media (max-width: 500px) {
+  main #movies .movie .cover {
+    display: none;
+  }
+}
+
+main #movies .movie .cover:before {
+  content: "";
+  width: 0%;
+  transition: width .5s;
+}
+
+main #movies .movie .cover:hover {
+  background-blend-mode: overlay;
+  background-color: #0288D1;
+}
+
+main #movies .movie .cover:hover:before {
+  content: "►"; /* &#9658; */
+  font-size: 2em;
+  border-radius: 50%;
+  color: #fff;
+  vertical-align: middle;
+  line-height: 150px;
+  text-align: center;
+  float: left;
+  width: 100%;
+}
+
+main #movies .movie .data {
+  float: right;
+
+}
+
+main #movies .movie .data>*{
+  margin-left: 5px;
+}
+
+main #movies .movie .name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  // margin: 0 5px;
+}
+
+main #movies .movie .info {
+  font-size: .8em;
+  color: #999;
+}
+
+main #movies .movie .genre, main #movies .movie .time {
+  color: #666;
+  border: 2px solid #666;
+  border-radius: 3px;
+  padding: 1px 3px;
+  margin: 10px 5px 10px 0;
+  // font-size: .7em;
+  display: inline-block;
+}
+
+main #movies .movie .time {
+  font-size: 2em;
+}
+
+main #movies .movie .schedule {
+  display: inline-block;
+  width: 100px;
+}
+
+main #movies .movie .schedule b {
+  font-family: 'Roboto', sans-serif;
+}
+
+main #movies .movie .schedule span{
+  display: block;
+}
+
+/* LOCATION */
+main #location {
+  width: 100vw;
+  height: 500px;
+  padding: 100px 0;
+}
+
+main #location iframe {
+  display: block;
+  width: 90%;
+  height: 90%;
+  margin: auto;
+}
+
+/* INFO */
+main #info {
+  text-align: center;
+  font-size: 1.3em;
+  background-image: url(../img/movie.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #2196F3;
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+  line-height: 1.7em;
+}
+
+@media (max-width: 899px){
+  main #info section {
+    padding: 7% 5%;
+    display: block;
+  }
+}
+
+@media (min-width: 900px){
+  main #info section {
+    padding: 100px 0;
+    display: inline-block;
+    vertical-align: top;
+    width: 32%;
+  }
+}
+
+main #info .icon {
+  display: inline-block;
+  font-size: 8em;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  margin: 20px;
+}
+
+/* FOOTER */
+footer {
+  color: #1565C0;
+  background-color: #E3F2FD;
+  line-height: 2.0em;
+  padding: 5% 5% 0 5%;
+  font-size: .8em;
+}
+
+footer section h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 900px) {
+  footer section {
+    display: inline-block;
+    width: 15%;
+    vertical-align: top;
+    margin-left: 2.5%;
+  }
+
+  footer .contato {
+    width: 23%;
+  }
+
+  footer .about {
+    margin-left: 0;
+    width: 37%;
+  }
+}
+
+footer .copyright {
+  display: block;
+  border-top: 1px solid rgba(21, 101, 192, 0.22);
+  text-align: center;
+  margin-top: 50px;
+  line-height: 50px;
+  height: 50px;
+  vertical-align: middle;
+}

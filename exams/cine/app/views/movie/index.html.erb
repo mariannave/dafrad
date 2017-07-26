@@ -1,0 +1,29 @@
+<div id="schedules">
+  <ul>
+    <% @showtimes.each do |showtime|%>
+    <li><%= link_to(showtime.time.strftime("%d/%m/%Y"), movie_index_path(data: showtime.time.strftime("%Y-%m-%d"))) %></li>
+    <% end %>
+  </ul>
+</div>
+
+<div id="movies">
+  <% @movies.each do |movie|%>
+  <section class="movie">
+    <%= image_tag("movies/#{movie.id}.jpg", class:"cover")%>
+    <div class="data">
+      <h1 class="name"><%= movie.title %></h1>
+      <div class="info">
+        <%= "#{movie.year} | #{movie.duration} | #{movie.rating}"%><br>
+        <% movie.genres.all.each do |genres|%>
+        <%= genres.title%>
+        <% end %>
+      </div>
+      <div class="time">
+        <% movie.showtimes.each do |showtime|%>
+        <%= showtime.time.strftime("%H:%M") %>
+        <% end%>
+      </div>
+    </div>
+  </section>
+  <% end %>
+</div>
